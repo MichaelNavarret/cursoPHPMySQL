@@ -57,4 +57,4 @@ Link del Curso (Youtube): https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkinr
     ---------------------
     * Archivos involucrados: uso_constantes.php
 
-    ------------------------------------ xx-xx-xxxx ----------------------------------
+------------------------------------ xx-xx-xxxx ----------------------------------
