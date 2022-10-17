@@ -50,3 +50,9 @@ Link del Curso (Youtube): https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkinr
     * Archivos involucrados: operadores_compracion.php
                              trabajo_operadores.php
                              validacion.php
+
+- Clase 10
+    * Declaracion de constantes
+    * Constantes propias y constantes predefinidas.
+    ---------------------
+    * Archivos involucrados: uso_constantes.php
