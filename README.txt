@@ -56,3 +56,5 @@ Link del Curso (Youtube): https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkinr
     * Constantes propias y constantes predefinidas.
     ---------------------
     * Archivos involucrados: uso_constantes.php
+
+    ------------------------------------ xx-xx-xxxx ----------------------------------
