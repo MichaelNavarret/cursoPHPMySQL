@@ -61,4 +61,7 @@ Link del Curso (Youtube): https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkinr
 - Clase 11_12
     * Calculos sencillos utilizando operadores matemáticos
     ---------------------
-    * Archivos involucrados: ejemplo_operadores.php
+    * Archivos involucrados: ejemplo_operadores.html
+                             calculadora.php
+
+------------------------------------ XX-XX-XXXX ----------------------------------
