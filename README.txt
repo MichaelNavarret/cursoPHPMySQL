@@ -57,4 +57,8 @@ Link del Curso (Youtube): https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkinr
     ---------------------
     * Archivos involucrados: uso_constantes.php
 
------------------------------------- xx-xx-xxxx ----------------------------------
+------------------------------------ 18-10-2022 ----------------------------------
+- Clase 11_12
+    * Calculos sencillos utilizando operadores matemáticos
+    ---------------------
+    * Archivos involucrados: ejemplo_operadores.php
