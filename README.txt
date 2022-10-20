@@ -64,4 +64,17 @@ Link del Curso (Youtube): https://www.youtube.com/playlist?list=PLU8oAlHdN5Bkinr
     * Archivos involucrados: ejemplo_operadores.html
                              calculadora.php
 
+------------------------------------ 19-10-2022 ----------------------------------
+- Clase 13
+    * Opeadores incremento y decremento
+    ---------------------
+    * Archivos involucrados: ejemplo_operadores.php
+                             calculadora.php (Clase_11_12)
+
+- Clase 14
+    * Uso de funciones matemáticas
+    * Casting
+    ---------------------
+    * Archivos involucrados: funciones_matematicas.php
+
 ------------------------------------ XX-XX-XXXX ----------------------------------
